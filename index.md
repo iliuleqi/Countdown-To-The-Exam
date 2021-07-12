@@ -12,9 +12,9 @@ title: 【软件】中考倒计时衡水考生版
 
 ## 下载地址
 
-[中考倒计时衡水考生版最新版下载地址](!https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.3/v1.3.apk)
+[中考倒计时衡水考生版最新版下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.3/v1.3.apk)
 
-[备用下载地址（密码：2022）](!https://tangwenshu.lanzoui.com/iTafirb4jbc)
+[备用下载地址（密码：2022）](https://tangwenshu.lanzoui.com/iTafirb4jbc)
 
 ## 更新日志
 
@@ -30,7 +30,7 @@ title: 【软件】中考倒计时衡水考生版
   无。
   
 **获取**
-  [下载地址](!https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.3/v1.3.apk)
+  [下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.3/v1.3.apk)
 
 ### V1.2
 
@@ -45,7 +45,7 @@ title: 【软件】中考倒计时衡水考生版
   退出界面无法返回首页。
 
 **获取**
-  [下载地址](!https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.2/v1.2.apk)
+  [下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.2/v1.2.apk)
 
 ### V1.1
 
@@ -59,7 +59,7 @@ title: 【软件】中考倒计时衡水考生版
   无。
 
 **获取**
-  [下载地址](!https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.1/v1.1.apk)
+  [下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.1/v1.1.apk)
 
 ### V1.0
 
@@ -72,7 +72,7 @@ title: 【软件】中考倒计时衡水考生版
     不详。
     
  **获取**
-  [下载地址](!https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.0/v1.0.apk)
+  [下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.0/v1.0.apk)
 
 ## 相关内容
   
@@ -80,4 +80,7 @@ title: 【软件】中考倒计时衡水考生版
 
 ## 支持赞助
 
-  无。
+***推荐使用第一个二维码***
+![微信赞赏码](https://user-images.githubusercontent.com/86276093/125232678-b4119d80-e30f-11eb-8300-f086da2dbead.png)
+![微信支付](https://user-images.githubusercontent.com/86276093/125232723-cb508b00-e30f-11eb-9c21-0e3d5b5bf9cb.png)
+
