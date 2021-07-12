@@ -1,6 +1,9 @@
 ---
 title: 【软件】中考倒计时衡水考生版
 ---
+<link rel="Bookmark" href="/forum_images/ffico.png" /> 
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
 
 # 中考倒计时衡水考生版
 
