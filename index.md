@@ -1,10 +1,11 @@
 ---
 title: 【软件】中考倒计时衡水考生版
 ---
-<link rel="Bookmark" href="/forum_images/ffico.png" /> 
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-
+<head>
+    <link rel="Bookmark" href="/forum_images/ffico.png" /> 
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
 # 中考倒计时衡水考生版
 
 ## 软件介绍
@@ -84,6 +85,7 @@ title: 【软件】中考倒计时衡水考生版
 ## 支持赞助
 
 ***推荐使用第一个二维码***
+
 ![微信赞赏码](https://user-images.githubusercontent.com/86276093/125232678-b4119d80-e30f-11eb-8300-f086da2dbead.png)
 ![微信支付](https://user-images.githubusercontent.com/86276093/125232723-cb508b00-e30f-11eb-9c21-0e3d5b5bf9cb.png)
 
