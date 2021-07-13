@@ -17,7 +17,7 @@
 
 低于V1.3的版本已经停止维护和开发！ヽ(ー_ー)ノ
 
-**V1.3下载地址：**(✪ω✪)
+**V1.3下载地址：<br />
 [中考倒计时衡水考生版最新版下载地址](https://github.com/iliuleqi/Countdown-to-the-exam/releases/download/V1.3/v1.3.apk)
 
 [备用下载地址（密码：2022）](https://tangwenshu.lanzoui.com/iTafirb4jbc)
