@@ -14,7 +14,7 @@ title: 【软件】中考倒计时衡水考生版
     
    作为马上要考试的初中学子，这款软件能够很好的帮助用户进行倒计时的使用，随时督促用户进行学习，了解到学习的重要性，更加努力的学习。这里不仅可以进行时间的倒计时，还可以通过玩游戏放松自己。打开这款软件，让学习的那根弦紧绷，一刻也不能松懈，努力地备战考试！
    
-**国内镜像仓库**
+**国内镜像仓库：**
 [![刘泽霖/COUNTDOWN-TO-THE-EXAM](https://gitee.com/iliuleqi/COUNTDOWN-TO-THE-EXAM/widgets/widget_card.svg?colors=393222,ebdfc1,fffae5,d8ca9f,393222,a28b40)](https://gitee.com/iliuleqi/COUNTDOWN-TO-THE-EXAM)
 
 
@@ -102,3 +102,10 @@ title: 【软件】中考倒计时衡水考生版
 
 ![微信赞赏码](https://user-images.githubusercontent.com/86276093/125232678-b4119d80-e30f-11eb-8300-f086da2dbead.png)
 ![微信支付](https://user-images.githubusercontent.com/86276093/125232723-cb508b00-e30f-11eb-9c21-0e3d5b5bf9cb.png)
+
+ <body>
+
+      <!-- 在页面最后引入 -->
+      <script src="https://cdn.jsdelivr.net/gh/fz6m/china-lantern@1.6/dist/china-lantern.min.js"></script>      
+    
+ </body>
