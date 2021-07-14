@@ -96,11 +96,8 @@
 
 ![微信赞赏码](https://user-images.githubusercontent.com/86276093/125232678-b4119d80-e30f-11eb-8300-f086da2dbead.png)
 ![微信支付](https://user-images.githubusercontent.com/86276093/125232723-cb508b00-e30f-11eb-9c21-0e3d5b5bf9cb.png)
-
 <body>
-
-      <!-- 在页面最后引入 -->
-      <script src="https://cdn.jsdelivr.net/gh/fz6m/china-lantern@1.6/dist/china-lantern.min.js"></script>      
-    
- </body>
+<!-- 在页面最后引入 -->
+<script src="https://cdn.jsdelivr.net/gh/fz6m/china-lantern@1.6/dist/china-lantern.min.js"></script>      
+</body>
 
