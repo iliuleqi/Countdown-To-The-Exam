@@ -5,7 +5,7 @@ title: 【软件】中考倒计时衡水考生版
     <link rel="Bookmark" href="/forum_images/ffico.png" /> 
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <script>
+<script>
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -13,8 +13,7 @@ title: 【软件】中考倒计时衡水考生版
       var s = document.getElementsByTagName("script")[0]; 
       s.parentNode.insertBefore(hm, s);
     })();
-    </script>
-
+</script>
 </head>
 # 中考倒计时衡水考生版
 
