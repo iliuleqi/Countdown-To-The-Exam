@@ -5,6 +5,16 @@ title: 【软件】中考倒计时衡水考生版
     <link rel="Bookmark" href="/forum_images/ffico.png" /> 
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?77a02143289596e92099d577fe49200c";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
 </head>
 # 中考倒计时衡水考生版
 
