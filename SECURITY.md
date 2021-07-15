@@ -54,9 +54,3 @@ __________/  )    /    \
          \\    ☆今天 开心☆
  ```
 
- <body>
-
-      <!-- 在页面最后引入 -->
-      <script src="https://cdn.jsdelivr.net/gh/fz6m/china-lantern@1.6/dist/china-lantern.min.js"></script>      
-    
- </body>
