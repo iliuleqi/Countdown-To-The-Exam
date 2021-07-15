@@ -1,3 +1,20 @@
+<head>
+    <link rel="Bookmark" href="/forum_images/ffico.png" /> 
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?77a02143289596e92099d577fe49200c";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <!-- 在页面最后引入 -->
+    <script src="https://cdn.jsdelivr.net/gh/fz6m/china-lantern@1.6/dist/china-lantern.min.js"></script> 
+</head>
+
 # 安全政策 (*^▽^*)
 
 ## 支持版本|ू･ω･` )
